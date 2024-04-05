@@ -2,7 +2,7 @@
 
 **Project:** Programming for Data Science
 
-**Topic:** Predictive Churn Analysis for Telecom Company
+**Topic:** Predictive Churn Analysis for Telco Company
 
 **Keywords:** Data Science, Telco Customer Churn, Exploratory Data Analysis (EDA), Machine Learning, Predictive Churn Analysis, Classification, Python
 
@@ -20,7 +20,7 @@
 
 
 ## Project Overview
-- Use predictive analytics to identify which telecom customer will churn or not based on features like Gender, SeniorCitizen, MultipleLines, etc.
+- Use predictive analytics to identify which Telco customer will churn or not based on features like Gender, SeniorCitizen, MultipleLines, etc.
 - The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
@@ -36,16 +36,16 @@
 
 ### Aim & Objective
 - Aim: 
-  - To improve the process of analysing customer churn in the telecommunications industry so that it can focus on maintaining long-term relationships with loyal customers while also developing an effective prediction model that divides telecom customers into churners and non-churners. 
+  - To improve the process of analysing customer churn in the Telcomunications industry so that it can focus on maintaining long-term relationships with loyal customers while also developing an effective prediction model that divides Telco customers into churners and non-churners. 
 - Objective: 
-  - To create and select the best Machine Learning model that classifies telecom customers as actual churners or not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.).
+  - To create and select the best Machine Learning model that classifies Telco customers as actual churners or not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.).
   - The insights and variables gained may be utilised to make better choices and adjustments, such as adding or upgrading services to decrease churn and measuring the success of marketing and other customer acquisition methods and techniques.
 
 
 
 ## Contents
 **(1) TelcoCustomerChurn_Dataset.csv**
-  - Sample Telecom Customer Churn dataset file in CSV format.
+  - Sample Telco Customer Churn dataset file in CSV format.
 
 **(2) /EDA-ML_Telco_Churn__Python Folder**
   - Contains 3 Python notebooks with implementation codes and explanations for the project.
